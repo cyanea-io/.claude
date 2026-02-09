@@ -27,7 +27,7 @@
 
 ### Additional Rule Files
 
-- [ ] Rust NIF development rules
+- [ ] Rust development rules (labs crate patterns, feature flags, error handling)
 - [ ] Database/Ecto patterns
 - [ ] LiveView component guidelines
 - [ ] API design conventions
